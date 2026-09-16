@@ -22,8 +22,6 @@ I am looking for a research internship in machine learning for 2027.
 - **[Sept. 2026]** Two preprints released: [FlowTSFM](https://arxiv.org/abs/2609.13640) and [Tabby](https://arxiv.org/abs/2609.13956).
 - **[Sept. 2026]** Started the MVA master's program at ENS Paris-Saclay.
 - **[Mar. 2026]** Joined Huawei France as a research intern on time series foundation models.
-- **[Nov. 2025]** Ranked **1st on the task and 3rd overall** at the CISPA AI & Cybersecurity Hackathon in Paris.
-- **[June 2025]** Joined Saint-Gobain Group Digital & IT as an MLOps intern.
 
 {% include_relative _includes/publications.md %}
 
