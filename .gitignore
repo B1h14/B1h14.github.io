@@ -1,0 +1,13 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.DS_Store
+.jekyll-cache
+git-update.sh
+
+# Upstream theme clone (reference only — safe to delete)
+minimal-light/
+
+# CV LaTeX source: contains a personal phone number, keep it out of the public repo
+*.tex

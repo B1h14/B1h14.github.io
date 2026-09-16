@@ -1,0 +1,18 @@
+main:
+
+  - title: "FlowTSFM: Turning Encoder Depth into Quantile Transport"
+    authors: <strong>Bahaeddine Abdessalem</strong>, Shifeng Xie, Zehao Xiao, Youssef Attia El Hili, Ambroise Odonnat, Jianfeng Zhang, Lujia Pan, Keli Zhang, Malik Tiomoko
+    conference_short: Preprint
+    conference: arXiv preprint arXiv:2609.13640, 2026. Under review at the <strong>Foundation Models for Temporal Systems (FMTS)</strong> workshop, NeurIPS 2026.
+    pdf: https://arxiv.org/abs/2609.13640
+    notes: Under review
+    # To add a teaser image, drop a file in assets/img/ and uncomment:
+    # image: ./assets/img/flowtsfm.png
+
+  - title: "Tabby: An Open Pretraining Recipe for Time Series Foundation Models"
+    authors: Shifeng Xie, <strong>Bahaeddine Abdessalem</strong>, Zehao Xiao, Youssef Attia El Hili, Ambroise Odonnat, Zhiwei Dong, Lei Zan, Themis Palpanas, Jianfeng Zhang, Lujia Pan, Keli Zhang, Malik Tiomoko
+    conference_short: Preprint
+    conference: arXiv preprint arXiv:2609.13956, 2026.
+    pdf: https://arxiv.org/abs/2609.13956
+    code: https://github.com/huawei-noah/trustworthyAI
+    # image: ./assets/img/tabby.png
