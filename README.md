@@ -12,7 +12,7 @@ hosted on GitHub Pages.
 | `_data/publications.yml` | The publication list |
 | `_includes/experience.md` | Experience section |
 | `_includes/projects.md` | Selected projects, awards, technical skills |
-| `assets/img/avatar.png` | Profile picture |
+| `assets/img/avatar.jpeg` | Profile picture |
 | `assets/files/` | CV PDF and any other downloadable files |
 | `_layouts/`, `_sass/`, `assets/css/` | Theme internals — you rarely need to touch these |
 
