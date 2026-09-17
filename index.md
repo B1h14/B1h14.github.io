@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a machine learning student at [École Polytechnique](https://www.polytechnique.edu/en), currently following the [MVA](https://www.master-mva.com/) research master's (*Mathématiques, Vision, Apprentissage*) at ENS Paris-Saclay.
+I am a student at [École Polytechnique](https://www.polytechnique.edu/en), currently pursuing the [MVA](https://www.master-mva.com/) research master's (*Mathématiques, Vision, Apprentissage*) at ENS Paris-Saclay. I am broadly interested in machine learning, particularly generative modeling, optimization, and efficient model design.
 
-I spent 2026 as a research intern at **Huawei France**, working on **time series foundation models** — architectures, pretraining recipes, and probabilistic forecasting. I am interested in how far we can push the accuracy–efficiency trade-off in forecasting models, and in making strong pretraining pipelines open and reproducible.
+Previously, I was a research intern at **Huawei France**, where I worked on foundation model architectures and pretraining methods. I am interested in understanding how architectural choices and learning algorithms shape model capabilities, and in developing methods that make training and inference more efficient.
 
-I am looking for a research internship in machine learning for 2027.
+I am looking for a **research internship in machine learning for 2027**.
 
 ## Research Interests
 
-- **Time Series Foundation Models:** pretraining recipes, data composition, zero-shot forecasting
-- **Probabilistic Forecasting:** quantile regression, flow- and transport-based objectives
-- **Generative Models:** diffusion models, instruction-based image editing, synthetic data generation
-- **Efficient Architectures:** recurrent-depth and weight-shared Transformers
+- **Generative Modeling:** Diffusion models, flow matching, and optimal transport, with an interest in efficient generation for continuous and discrete data.
+- **Efficient Architectures:** Parameter-efficient models, recurrent and weight-shared Transformers, and knowledge distillation, with an emphasis on the trade-offs between model capacity and computational cost.
+- **Optimization & Scaling:** Training dynamics, neural network parameterization, and hyperparameter transfer for stable, compute-efficient training across model scales.
+- **Adaptive Inference:** Learned sampling strategies and reinforcement learning for improving the trade-off between generation quality and inference cost.
 
 ## News
 
