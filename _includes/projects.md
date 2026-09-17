@@ -1,8 +1,9 @@
 ## Selected Projects &amp; Awards
 
 <ul style="margin:0 0 20px;">
-  <li><strong>Instruction-Based Image Editing</strong> <em>(March 2026)</em> &mdash; compared FLUX.2-klein in text-only mode against Canny-conditioned ControlNet + Stable Diffusion 1.5 on 100 HQ-Edit samples, evaluating instruction alignment, reference fidelity and source preservation with CLIP and LPIPS.</li>
-  <li><strong>Simulators for Degradation Modeling</strong> <em>(Sept. 2025 &ndash; present)</em> &mdash; implemented and evaluated diffusion models for synthetic time series generation.</li>
+  <li><strong>Simulators for Degradation Modeling</strong> <em>(Sept. 2025 &ndash; present)</em> &mdash; building synthetic time series generators that reproduce real-data distributions to support failure-mode classification in real engines.</li>
+  <li><strong>Instruction-Based Image Editing</strong> <em>(March 2026)</em> &mdash; compared two image-editing approaches: a flow-matching model prompted to modify an input image and a ControlNet-based conditional editing pipeline. Evaluated both on HQ100 (DALL-E-generated images paired with edit prompts and target edits) using multiple similarity and preservation metrics; found no uniformly dominant method, with each exhibiting distinct strengths and failure modes.</li>
+  <li><strong>BERT-Based Climate-Text Analysis</strong> <em>(Sept. 2024 &ndash; April 2025)</em> &mdash; fine-tuned a BERT-based model for multi-axis climate-text classification, including logical-fallacy detection and climate-skepticism identification. Applied it to French Assembl&eacute;e nationale texts to track how climate-related discourse and expressed positions shift over the years.</li>
   <li><strong>CISPA AI &amp; Cybersecurity Hackathon, Paris</strong> <em>(Nov. 2025)</em> &mdash; crafted adversarial examples with surrogate-model PGD attacks under a black-box budget of one query per 15 minutes; <strong>1st on the task, 3rd overall</strong>.</li>
 </ul>
 
